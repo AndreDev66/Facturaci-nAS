@@ -23,7 +23,7 @@
 ## 🛠️ Stack Tecnológico
 
 * **Lenguaje:** Python 3.x
-* **UI Framework:** PyQt5 / PySide6
+* **UI Framework:** PyQt5 / PySide6 y Tkinter
 * **Base de Datos:** JSON / SQLite (db.py)
 * **Testing:** Pytest
 
