@@ -1,3 +1,6 @@
+· Instalar mediante el gestor de paquetes pip los Modulos
+
 customtkinter
 matplotlib
 Pillow
+db
