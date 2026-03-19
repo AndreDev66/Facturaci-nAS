@@ -32,7 +32,6 @@
 ## 📂 Estructura del Proyecto
 
 ```text
-├── .venv/               # Entorno virtual
 ├── img/                 # Recursos visuales y activos
 ├── tests/               # Pruebas automatizadas
 │   ├── test_create_user.py
